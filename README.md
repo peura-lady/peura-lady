@@ -22,7 +22,7 @@ Detail-oriented Junior Front-End Developer with a zest of perseverance to solve 
 
 <img align="right" alt="GIF" height="300px" src="https://media4.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=790b761168720c129200900c7837880f7557ae6e890f05e2&rid=giphy.gif&ct=g" />
 
-- 👨‍💻 My goal is to become ✨<b> successful Front-End Developer </b>✨
+- 👨‍💻 My goal is to become ✨<b>successful Front-End Developer</b>✨
 - 🌱 I’m currently learning React and Redux
 - 👯 I’m looking for new opportunities!
 - 📚 Bibliophile
