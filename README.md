@@ -57,7 +57,7 @@ Detail-oriented Junior Front-End Developer | React.js with a zest of perseveranc
 
 ### GitHub stats
 
-<img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peura-lady&theme=radical&line_height=10&hide_langs_below=1&layout=compact" /> <img height=175 src="https://github-readme-stats.vercel.app/api?username=peura-lady&show_icons=true&theme=gotham" alt="peura-lady" />
+<img height=158 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peura-lady&theme=radical&line_height=10&hide_langs_below=1&layout=compact" /> <img height=158 src="https://github-readme-stats.vercel.app/api?username=peura-lady&show_icons=true&theme=gotham" alt="peura-lady" />
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=peura-lady&column=7&theme=dracula&no-frame=true" alt="Anya's github trophy"/>
 
 
