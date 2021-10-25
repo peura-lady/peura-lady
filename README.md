@@ -16,7 +16,7 @@
 <br>
 <br>
 I am <a href= "https://github.com/peura-lady"><b> Anna Sonninen. </b></a>
-Detail-oriented Junior Front-End Developer with a zest of perseverance to solve the problem. Why Front-End Development? Because you can create beautiful static design throught communication with a computer! What kind of scientific magic is that? 🤓
+Detail-oriented Junior Front-End Developer | React.js with a zest of perseverance to solve the problem. Why Front-End Development? Because you can create beautiful static design throught communication with a computer! What kind of scientific magic is that? 🤓
 
 ### Currently focusing on Front-End Development improvements
 
@@ -24,6 +24,7 @@ Detail-oriented Junior Front-End Developer with a zest of perseverance to solve 
 
 - 👨‍💻 My goal is to become ✨<b>successful Front-End Developer</b>✨
 - 🌱 I’m currently learning React and Redux
+- 📈 Studied Front-End Development in Haaga-Helia UAS
 - 👯 I’m looking for new opportunities!
 - 📚 Bibliophile
 - 💬 Ask me about anything 
@@ -38,14 +39,16 @@ Detail-oriented Junior Front-End Developer with a zest of perseverance to solve 
 
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023878-f6415180-b355-11eb-940f-66432cfabac2.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023881-f6d9e800-b355-11eb-8378-5fedd65fed8f.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023882-f7727e80-b355-11eb-9657-5d73609889dc.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023885-f7727e80-b355-11eb-90de-9fa41de2f139.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023895-f8a3ab80-b355-11eb-8e29-cfa06d2076d4.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023887-f7727e80-b355-11eb-82f2-636123b8098e.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023888-f80b1500-b355-11eb-85b4-b072a8a395fa.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023890-f80b1500-b355-11eb-869c-83ffb7363a0a.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023882-f7727e80-b355-11eb-9657-5d73609889dc.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118024503-aadb7300-b356-11eb-9d5b-f65acb4e014b.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023895-f8a3ab80-b355-11eb-8e29-cfa06d2076d4.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023892-f8a3ab80-b355-11eb-9d15-387bb21416ea.png"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023890-f80b1500-b355-11eb-869c-83ffb7363a0a.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023899-f93c4200-b355-11eb-85c5-ed1929c17f4c.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023901-f93c4200-b355-11eb-967e-a2e6da5939cf.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023904-f93c4200-b355-11eb-9d51-d8569f167498.png"></code>
@@ -54,8 +57,8 @@ Detail-oriented Junior Front-End Developer with a zest of perseverance to solve 
 
 ### GitHub stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=peura-lady&theme=radical&line_height=10&hide_langs_below=1&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=peura-lady&show_icons=true&theme=gotham" alt="peura-lady" />
+<img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peura-lady&theme=radical&line_height=10&hide_langs_below=1&layout=compact" /> <img height=175 src="https://github-readme-stats.vercel.app/api?username=peura-lady&show_icons=true&theme=gotham" alt="peura-lady" />
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=peura-lady&column=7&theme=dracula&no-frame=true" alt="Anya's github trophy"/>
+
 
 <img src="https://profile-counter.glitch.me/peura-lady/count.svg" />
