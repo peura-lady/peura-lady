@@ -31,6 +31,7 @@ Detail-oriented Junior Front-End Developer | React.js with a zest of perseveranc
 - 👯 I’m looking to collaborate with people, who are as passionate about Front-End Development as I am!
 - 💭 Share with me your interests
 - 🧩 Love solving Japanese nonogram puzzles
+- 🧶 Knit for fun and relaxation
 - ⚡ Fun fact: The name of all the continents end with the same letter that they start with
 
 <br>
