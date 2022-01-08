@@ -58,10 +58,11 @@ Detail-oriented Junior Front-End Developer | React.js with a zest of perseveranc
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023904-f93c4200-b355-11eb-9d51-d8569f167498.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></code> -->
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"></code> -->
 
 <br>
 
-### GitHub stats
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub stats
 
 <img height=158 src="https://github-readme-stats.vercel.app/api/top-langs/?username=peura-lady&theme=radical&line_height=10&hide_langs_below=1&layout=compact" /> <img height=158 src="https://github-readme-stats.vercel.app/api?username=peura-lady&show_icons=true&theme=gotham" alt="peura-lady" />
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=peura-lady&column=7&theme=dracula&no-frame=true" alt="Anya's github trophy"/>
