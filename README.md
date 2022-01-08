@@ -53,6 +53,7 @@ Detail-oriented Junior Front-End Developer | React.js with a zest of perseveranc
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023899-f93c4200-b355-11eb-85c5-ed1929c17f4c.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023901-f93c4200-b355-11eb-967e-a2e6da5939cf.png"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/64637806/118023904-f93c4200-b355-11eb-9d51-d8569f167498.png"></code>
+<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code> -->
 
 <br>
 
